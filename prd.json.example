@@ -1,0 +1,33 @@
+{
+  "project": "target-repository",
+  "branchName": "feat/ralph-codex-sample",
+  "description": "Sample PRD for the Codex-adapted Ralph installation.",
+  "userStories": [
+    {
+      "id": "US-001",
+      "title": "Add a small documentation note",
+      "description": "As a maintainer, I want Ralph to complete one small, reviewable documentation change in this repository.",
+      "acceptanceCriteria": [
+        "The change touches only documentation files",
+        "The change follows repository documentation structure",
+        "A minimal validation command is recorded in progress.txt"
+      ],
+      "priority": 1,
+      "passes": false,
+      "notes": ""
+    },
+    {
+      "id": "US-002",
+      "title": "Summarize a reusable repository pattern",
+      "description": "As a future iteration, I want a reusable repository pattern captured in progress.txt or AGENTS.md if one is discovered.",
+      "acceptanceCriteria": [
+        "Only genuinely reusable knowledge is added",
+        "No story-specific noise is written into AGENTS.md",
+        "The PRD is updated after the story completes"
+      ],
+      "priority": 2,
+      "passes": false,
+      "notes": ""
+    }
+  ]
+}
