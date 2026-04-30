@@ -1,6 +1,6 @@
 # Ralph Loop
 
-这个仓库从 `deepexios-monorepo/backend-python/services/ralph-loop-service` 独立出来，用于维护面向 `Codex CLI` 的 Ralph 单故事自治循环。
+用于维护面向 `Codex CLI` 的 Ralph 单故事自治循环。
 
 ## 当前仓库包含什么
 
