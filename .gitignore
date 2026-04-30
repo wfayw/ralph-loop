@@ -1,5 +1,7 @@
 archive/
 runs/
+.playwright-mcp/
+tasks/
 __pycache__/
 .last-branch
 .last-message.txt
