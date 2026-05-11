@@ -8,3 +8,4 @@ __pycache__/
 .rendered-CODEX.md
 progress.txt
 prd.json
+agent-safety-gateway/
