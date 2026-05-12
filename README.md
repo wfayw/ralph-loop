@@ -14,6 +14,7 @@
 - `flowchart/`：上游流程图前端源码
 
 运行态文件不提交：`prd.json`、`progress.txt`、`runs/`、`archive/`、`.last-*`。
+具体目标项目的 PRD、任务拆解、专利材料和设计文档放在目标项目仓库中，不放在 `ralph-loop`。
 
 ## 快速开始
 

@@ -64,6 +64,8 @@ make ralph-run MAX_ITERATIONS=3
 - 提示模板：`CODEX.md`
 - 完整运行日志：`runs/*.log`
 
+目标项目的长期 PRD、任务拆解、专利材料和设计文档应整理到目标项目仓库；`ralph-loop` 只保留当前运行所需的本地 `prd.json`、`progress.txt` 和运行日志。
+
 ## 5. 常用环境变量
 
 - `RALPH_REPO_ROOT`：覆盖默认目标仓库根目录
